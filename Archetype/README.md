@@ -1,0 +1,3 @@
+MS SQL
+
+Password=M3g4c0rp123;User ID=ARCHETYPE\sql_svc
